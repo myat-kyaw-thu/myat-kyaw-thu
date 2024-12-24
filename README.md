@@ -4,15 +4,12 @@
 
 # 💡 About Me
 
-<br>
 
 > 💫 I'm a Frontend Developer with a deep passion for JavaScript, PHP & Laravel. With one year of experience, I thrive on transforming complex challenges into elegant solutions and enjoy diving into the latest tech trends. 🚀
 
-<br>
 
 # 💻 Tech Stack
 
-<br>
 
 ### Languages
 <div>
@@ -42,22 +39,6 @@
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
 </div>
 
-<br>
-
-# 🔗 Connect with me
-
-<br>
-
-<div>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
-<br>
 
 ---
 
