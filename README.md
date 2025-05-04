@@ -1,4 +1,4 @@
-# Myat Kyaw Thu (Andrew) | Software Developer
+# Andrew | Software Developer
 
 <div align="center">
   
