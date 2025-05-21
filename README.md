@@ -20,7 +20,7 @@ When I'm not coding, I'm exploring emerging technologies and contributing to ope
 <summary>💡 My Development Philosophy</summary>
 <br>
   
-> "Simplicity is the ultimate sophistication. I strive to write code that is readable, maintainable, and efficient – focusing on the user experience while maintaining technical excellence."
+> The man who takes steady steps will surpass the one who only has ambition
 
 </details>
 
