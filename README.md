@@ -4,7 +4,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3ECF8E&center=true&vCenter=true&width=435&lines=Frontend+Developer;JavaScript+Enthusiast;Problem+Solver;UI%2FUX+Craftsman)
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=3ECF8E&style=flat-square)](https://github.com/yourusername)  [![committers.top badge](https://user-badge.committers.top/myanmar_private/myat-kyaw-thu.svg)](https://user-badge.committers.top/myanmar_private/myat-kyaw-thu)
+  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=3ECF8E&style=flat-square)](https://github.com/myat-kyaw-thu)  [![committers.top badge](https://user-badge.committers.top/myanmar_private/myat-kyaw-thu.svg)](https://user-badge.committers.top/myanmar_private/myat-kyaw-thu)
   
 </div>
 
