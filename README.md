@@ -1,52 +1,103 @@
-# Andrew | Software Developer
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3ECF8E&center=true&vCenter=true&width=435&lines=Frontend+Developer;JavaScript+Enthusiast;Problem+Solver;UI%2FUX+Craftsman)
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=3ECF8E&style=flat-square)](https://github.com/myat-kyaw-thu)  [![committers.top badge](https://user-badge.committers.top/myanmar_private/myat-kyaw-thu.svg)](https://user-badge.committers.top/myanmar_private/myat-kyaw-thu)
-  
+
+# Andrew
+### Full-Stack Developer & UI/UX Craftsman
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Full-Stack+Developer;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andrewwww.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myat-kyaw-thu-0b8177334/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myatkyawthu4002@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6366f1&style=flat-square&label=Profile+Views)
+
 </div>
 
-## About
+---
 
-Passionate Frontend Developer with a keen eye for detail and a love for clean, efficient code. With expertise in JavaScript, TypeScript, PHP, and Laravel, I specialize in building responsive, user-centric web applications that deliver exceptional experiences.
+## 🎯 About Me
 
-I thrive in collaborative environments where I can transform complex challenges into elegant solutions. My approach combines technical precision with creative problem-solving, ensuring that every project I touch is both functional and visually compelling.
+> *"The man who takes steady steps will surpass the one who only has ambition"*
 
-When I'm not coding, I'm exploring emerging technologies and contributing to open-source projects to stay at the cutting edge of web development. I believe in writing code that not only works today but remains maintainable tomorrow.
+Passionate **Full-Stack Developer** with expertise in modern web technologies. I specialize in creating scalable applications with exceptional user experiences, combining technical precision with creative problem-solving.
 
-<details>
-<summary>💡 My Development Philosophy</summary>
+- 🔭 Currently working on **Next.js 15** and **React 19** projects
+- 🌱 Learning **AI/ML integration** in web applications  
+- 👯 Open to collaborate on **innovative web solutions**
+- 💬 Ask me about **React, Next.js, TypeScript, and UI/UX**
+- ⚡ Fun fact: I debug with console.log() and I'm not ashamed
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
 <br>
-  
-> The man who takes steady steps will surpass the one who only has ambition
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </details>
 
-## Technical Proficiency
+<details open>
+<summary><b>🎭 Styling & Animation</b></summary>
+<br>
 
-### Core Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+</details>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+<details open>
+<summary><b>⚙️ Backend & Database</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-
-### Database & Storage
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔐 Authentication & State Management</b></summary>
+<br>
+
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=oauth&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF6B35?style=flat-square&logo=react&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🚀 Deployment & Tools</b></summary>
+<br>
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+
+</details>
+
+
+---
+
