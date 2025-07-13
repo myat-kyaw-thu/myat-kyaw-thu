@@ -2,7 +2,7 @@
 <div align="center">
 
 # Andrew
-### Full-Stack Developer & UI/UX Craftsman
+### Full-Stack Developer & UI/UX Crafter
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Full-Stack+Developer;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
