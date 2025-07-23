@@ -16,24 +16,24 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 > *"The man who takes steady steps will surpass the one who only has ambition"*
 
 Professional **Full-Stack Developer** specializing in modern web architectures and exceptional user experiences. I combine technical expertise with creative problem-solving to build scalable, performant applications.
 
-- 🔭 Currently working with **Next.js 15**, **React 19**, **Laravel 11**, and **Vue 3**
-- 🌱 Exploring **AI/ML integration** in enterprise web applications
-- 👯 Open to collaborate on **innovative web solutions** and **open source projects**
-- 💬 Ask me about **React, Next.js, TypeScript, Laravel, and UI/UX**
-- ⚡ Fun fact: I debug with structured logging now, but started with console.log()
+- Currently working with **Next.js 15**, **React 19**, **Laravel 11**, and **Vue 3**
+- Exploring **Enterprise Architecture Paradigms** and **Infrastructure as Code** for cloud-native DevOps orchestration
+- Open to collaborate on **innovative web solutions** and **open source projects**
+- Ask me about **React, Next.js, TypeScript, Laravel, and UI/UX**
+- Advocate for test-driven development and continuous integration methodologies that optimize deployment pipelines
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b> Frontend Development</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=white)
@@ -46,7 +46,7 @@ Professional **Full-Stack Developer** specializing in modern web architectures a
 </details>
 
 <details open>
-<summary><b>🎭 Styling & Design Systems</b></summary>
+<summary><b> Styling & Design Systems</b></summary>
 <br>
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -57,7 +57,7 @@ Professional **Full-Stack Developer** specializing in modern web architectures a
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Database</b></summary>
+<summary><b> Backend & Database</b></summary>
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=node.js&logoColor=white)
@@ -71,7 +71,7 @@ Professional **Full-Stack Developer** specializing in modern web architectures a
 </details>
 
 <details open>
-<summary><b>🔐 Authentication & State Management</b></summary>
+<summary><b> Authentication & State Management</b></summary>
 <br>
 
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-333333?style=flat-square&logo=next.js&logoColor=white)
@@ -83,7 +83,7 @@ Professional **Full-Stack Developer** specializing in modern web architectures a
 </details>
 
 <details open>
-<summary><b>🚀 Deployment & DevOps</b></summary>
+<summary><b> Deployment & DevOps</b></summary>
 <br>
 
 ![Vercel](https://img.shields.io/badge/Vercel-333333?style=flat-square&logo=vercel&logoColor=white)
@@ -96,7 +96,7 @@ Professional **Full-Stack Developer** specializing in modern web architectures a
 
 ---
 
-## 🔍 Current Focus
+##  Current Focus
 
 I'm currently focused on building scalable applications with:
 
@@ -110,6 +110,6 @@ I'm currently focused on building scalable applications with:
 <div align="center">
   <i>Let's connect and build something amazing together!</i>
 </div>
-```
+
 
 
