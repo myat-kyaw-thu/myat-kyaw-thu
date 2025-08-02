@@ -46,7 +46,7 @@ Professional **Full-Stack Developer** specializing in modern web architectures a
 </details>
 
 <details open>
-<summary><b>  Design Systems</b></summary>
+<summary><b> Styling & Design Systems</b></summary>
 <br>
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat-square&logo=tailwind-css&logoColor=white)
