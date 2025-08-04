@@ -18,7 +18,7 @@
 
 ## About Me
 
-> *"The man who takes steady steps will surpass the one who only has ambition"*
+> *The man who takes steady steps will surpass the one who only has ambition*
 
 Professional **Full-Stack Developer** specializing in modern web architectures and exceptional user experiences. I combine technical expertise with creative problem-solving to build scalable, performant applications.
 
