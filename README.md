@@ -22,7 +22,7 @@
 
 Professional **Full-Stack Developer** specializing in modern web architectures and exceptional user experiences. I combine technical expertise with creative problem-solving to build scalable, performant applications.
 
-- Currently working with **Next.js 15**, **React 19**, **Laravel 11**, and **Vue 3**
+- Leading development with Next.js 15, React 19, Laravel 11, and Vue 3, focusing on composable frontends and domain-driven backend design
 - Exploring **Enterprise Architecture Paradigms** and **Infrastructure as Code** for cloud-native DevOps orchestration
 - Open to collaborate on **innovative web solutions** and **open source projects**
 - Ask me about **React, Next.js, TypeScript, Laravel, and UI/UX**
