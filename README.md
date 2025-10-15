@@ -2,7 +2,7 @@
 
 # Andrew
 
-### Full-Stack Developer
+### Software Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Full-Stack+Developer;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
