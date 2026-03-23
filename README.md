@@ -1,7 +1,7 @@
 # MYAT KYAW THU
 
 Yangon, Myanmar | +959262999350 | myatkyawthu4002@gmail.com  
-[GitHub](https://github.com/myat-kyaw-thu) | [Portfolio](https://andrewwww.vercel.app)
+[GitHub](https://github.com/myat-kyaw-thu) | [Portfolio](https://myatkyawthu.com)
 
 ---
 
