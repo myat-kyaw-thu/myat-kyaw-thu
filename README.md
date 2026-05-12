@@ -1,8 +1,21 @@
-![Banner](banner.gif)
+<img src="banner.gif" alt="Banner" width="100%" />
 
-| | |
-|---|---|
-| **MYAT KYAW THU** <br/> Full-Stack Developer \| No-Cap Code Architect \| Touch Grass When Needed <br/><br/> "Building systems that actually don't mid (and sometimes mid-tier memes on the timeline)" <br/><br/> Yangon, Myanmar \| [myatkyawthu4002@gmail.com](mailto:myatkyawthu4002@gmail.com) \| [GitHub](https://github.com/myat-kyaw-thu) \| [Portfolio](https://myatkyawthu.com) | ![](pfp.gif) |
+<table>
+  <tr>
+    <td>
+      <strong>MYAT KYAW THU</strong><br/>
+      Full-Stack Developer | No-Cap Code Architect | Touch Grass When Needed<br/><br/>
+      <em>"Building systems that actually don't mid (and sometimes mid-tier memes on the timeline)"</em><br/><br/>
+      Yangon, Myanmar &nbsp;|&nbsp;
+      <a href="mailto:myatkyawthu4002@gmail.com">myatkyawthu4002@gmail.com</a> &nbsp;|&nbsp;
+      <a href="https://github.com/myat-kyaw-thu">GitHub</a> &nbsp;|&nbsp;
+      <a href="https://myatkyawthu.com">Portfolio</a>
+    </td>
+    <td align="right" width="180">
+      <img src="pfp.gif" width="160" />
+    </td>
+  </tr>
+</table>
 
 ---
 
