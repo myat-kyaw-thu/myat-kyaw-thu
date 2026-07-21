@@ -4,7 +4,7 @@
       <h1>MYAT KYAW THU</h1>
       <p><strong>Full-Stack Developer | Systems Architect | Occasional Touch-Grass Enjoyer</strong></p>
       <p><em>"I write code that works in production, not just on my machine."</em></p>
-      <p>Yangon, Myanmar &nbsp;•&nbsp; <a href="mailto:myatkyawthu4002@gmail.com">Email</a> &nbsp;•&nbsp; <a href="https://github.com/myat-kyaw-thu">GitHub</a> &nbsp;•&nbsp; <a href="https://myatkyawthu.com">Portfolio</a></p>
+     </p>
     </td>
     <td align="right" width="160">
       <img src="pfp.gif" width="140" style="border-radius: 10px;" />
