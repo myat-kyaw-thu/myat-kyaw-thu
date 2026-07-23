@@ -7,7 +7,7 @@
 andrew
 
 ~/dev » cat role.txt
-backend-leaning full-stack dev
+full-stack-dev
 
 ~/dev » ls stack/
 go/  typescript/  react/  next.js/  laravel/  postgres/  docker/
