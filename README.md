@@ -1,4 +1,3 @@
-![banner](banner.gif)
 
 <div align="start">
 
